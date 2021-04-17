@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/mingyuan/Documents/GitHub/Books-Renting-Site-with-Django/venv"
+VIRTUAL_ENV="/Users/apilama/Desktop/projects/repos/Books-Renting-Site-with-Django/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
